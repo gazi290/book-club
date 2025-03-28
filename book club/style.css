@@ -1,0 +1,25 @@
+header h1 {
+        background-color: rgb(122, 186, 53);
+        border: 5px blue dotted;
+}
+
+nav {
+    background-color: rgb(212, 132, 13);
+    border: 5px pink dotted;
+}
+
+nav ul li a{
+    color: rgb(25, 212, 196);
+
+
+}
+
+#intro {
+    background-color: blueviolet;
+    border: 5px yellow solid;
+}
+
+.teacher-info{
+    background-color: aquamarine;
+    border: 5px orange solid;
+}
