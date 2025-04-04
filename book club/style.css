@@ -24,9 +24,46 @@ nav ul li{
     background-color: blueviolet;
     border: 5px yellow solid;
 }
+.teacher-info {
 
-.teacher-info{
-    background-color: aquamarine;
-    border: 5px orange solid;
+    background-color: lightslategray;
+
+    border: 5px solid rgb(201, 99, 99);
+
+    box-shadow: 2px 2px 5px 5px rgb(107, 24, 130);
+
+    margin: 20px 10px;
+
+    text-align: center;
+
+}
+
+.teacher-info h3,
+
+p {
+
+    font-family: cursive;
+
+    color: rgb(225, 228, 228);
+
+}
+
+table tr th,
+
+td {
+
+    border: 2px solid rgb(38, 34, 35);
+
+}
+
+.main-section-content {
+
+    border: 5px solid grey;
+
+    border-radius: 5px;
+
+    margin: 20px 10px;
+
+    padding: 10px;
 
 }
